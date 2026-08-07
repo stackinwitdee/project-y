@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.wallet-adapter-button {
+  background-color: #14F195 !important;
+  color: #000 !important;
+  border: none !important;
+  padding: 12px 24px !important;
+  border-radius: 8px !important;
+  font-weight: bold !important;
+}
+.wallet-adapter-button:hover {
+  background-color: #12E085 !important;
+}
